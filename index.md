@@ -4,7 +4,7 @@ permalink: /
 permalink_name: /home
 title: Byungkeun Choi
 
-detail_image: assets/theme_logo.svg
+detail_image: assets/myfrog.svg
 
 ---
 
