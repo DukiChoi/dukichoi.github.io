@@ -63,3 +63,7 @@ To add a custom directory to your theme-gem, please edit the regexp in `jekyll-s
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+
+이것이 블로구 주소
+https://dukichoi.github.io/blog/
