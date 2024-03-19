@@ -10,8 +10,5 @@ detail_image: assets/강아지 부르르르.gif
 
 # Byungkeun Choi
 
-**Byungkeun Choi ** He is Korean dude who will win his name for himself. 
-
-He plays League of legends as many Koreans do... which makes him lose his control of temper. That game should fail for all human being from a utilitarian point of view.
-
+** Byungkeun Choi ** is a Korean guy who will make a name for himself. He plays League of Legends, like many Koreans, which often causes him to lose his temper. From a utilitarian point of view, that game deserves to fail for the sake of all humanity."
                                                                                                             
