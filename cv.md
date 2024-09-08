@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: 
 permalink: /cv
 permalink_name: /cv
 title: cv.md
