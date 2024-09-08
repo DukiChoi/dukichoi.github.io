@@ -14,4 +14,4 @@ detail_image: assets/강아지 부르르르.gif
                                                                                                             
 # My CV
 
-<embed src="/assets/cv/resume.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="/assets/cv/my_cv.pdf" type="application/pdf" width="100%" height="800px" />
