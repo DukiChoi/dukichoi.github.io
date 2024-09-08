@@ -1,7 +1,6 @@
 ---
 layout: my_cv
 permalink: /cv
-permalink_name: /cv
 title: cv
 ---
 
