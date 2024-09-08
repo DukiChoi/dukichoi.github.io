@@ -66,4 +66,4 @@ The theme is available as open source under the terms of the [MIT License](https
 
 
 이것이 블로구 주소
-https://dukichoi.github.io/blog/
+https://dukichoi.github.io/
