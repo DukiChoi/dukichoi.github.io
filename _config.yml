@@ -9,7 +9,6 @@ plugins:
   - jemoji
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-emoji
 sass:
   style: compressed
 
